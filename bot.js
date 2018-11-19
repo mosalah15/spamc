@@ -11,4 +11,4 @@ channel.send(`spam spam spam spam spam spam spam spam spam spam spam spam spam s
 })
  
  
-client.login('NTEzNzg5NjA5NjMzNzc1NjE3.DtNI5g.f4h9PgQnICqO_xOM2d2WWF8dnGo');
+client.login('NTEzNzk0MzgyNDE2MTgzMjk4.DtNQXg.eszWWuQH6YRDS6Wux0A7eK4l5I0');
